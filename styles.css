@@ -23,6 +23,11 @@ header, section, footer {
     background-color: #fff; /* White Background */
 }
 
+.removelink {
+    color: inherit;
+}
+
+
 nav {
     margin-bottom: 20px;
     padding: 20px;
