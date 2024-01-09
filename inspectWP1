@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Greenergy</title>
+    <script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3800199,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+    </script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <a href="index.html"><h1>Greenergy</h1></a>
+                <nav>
+                    <ul>
+                        <li><a href="zonnepanelen.html">Zonnepanelen</a></li>
+                        <li><a href="warmtepompen.html">Warmtepompen</a></li>
+                        <!-- Voeg meer navigatie-items toe indien nodig -->
+                    </ul>
+                </nav>
+            </div>
+            <p>Uw bron voor duurzame en milieuvriendelijke energieoplossingen</p>
+        </div>
+    </header>
+
+    <!-- Hiero ff dingen toevoegen gerelateerd aan de pagina die je maakt -->
+
+    <div class="container main-content inspect">
+	        
+            <h2>Longi Solar LR5</h2>
+            <img src="https://pdg.cef.co.uk/images/pdg/longi_lr5-66hih-500m-a/original/longi_lr5-66hih-500m-a.jpg" alt="Longi Solar LR5" style="float: left" width="30%" class="zoom">
+            <p>Het LR5-54HIB-405M paneel van LONGi in de Hi MO 5-serie beschikt over een vermogen van 405 Wattpiek.</p>
+            <p> Per vierkante meter van je zonne-installatie is dit 207 Wp en een module-efficiëntie van 20,7%.</p>
+            <p>Het paneel is voorzien van 108 half-cut monofacial cellen met PERC technologie.</p>
+            <p>De zonnepanelen hebben een afmeting van 1722 x 1134 x 30 mm met 3,2 mm glas voorzijde en zwarte backsheet, met een gewicht van 20,8 kg per paneel.</p>
+            <p>Op de LONGi Hi-MO 5 405 Wp panelen geldt een fabrieksgarantie van 12 jaar en een vermogensgarantie van 25 jaar.</p>
+            <br>
+            <button><p>Bestel nu!</p></button>
+    </div>
+
+    <footer>
+        <p>&copy; 2023 Greenergy. Alle rechten voorbehouden.</p>
+        <div class="container footer-content">
+            <div class="footer-column">
+                <ul>
+                    <li><a href="zonnepanelen.html">Zonnepanelen</a></li>
+                    <li><a href="warmtepompen.html">Warmtepompen</a></li>
+                    <!-- Voeg meer links toe indien nodig -->
+                </ul>
+            </div>
+            <div class="footer-column">
+                <ul>
+                    <li><a href="privacy.html">Privacybeleid</a></li>
+                    <li><a href="voorwaarden">Algemene voorwaarden</a></li>
+                    <li><a href="faq.html">FAQ</a></li>
+                    <!-- Voeg meer links toe indien nodig -->
+                </ul>
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
